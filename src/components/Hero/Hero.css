@@ -1,0 +1,13 @@
+.bg-custom-css {
+    background-image: url('../../assets/bg-shadow.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.color {
+    background-color: rgb(231, 254, 41);
+}
+
+.color-b {
+    border: 1px solid rgb(231, 254, 41);
+}
