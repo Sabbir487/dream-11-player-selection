@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "banner": "https://i.ibb.co/0j960Cmh/d944c2005e206ac9b31821d6fc937a83.jpg",
+        "img": "https://i.ibb.co/gFy2CKQ9/cc7f6727b89e3e19eed67f5f60c4cfca.jpg",
+        "name": "Virat Kohli",
+        "country": "India",
+        "type": "Batsman",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm top-order",
+        "price": 1540000
+    },
+    {
+        "id": 2,
+        "banner": "https://i.ibb.co/BH42GhFJ/382022fca4753e376949bbcab49e60a9.jpg",
+        "img": "https://i.ibb.co/271QBQVx/9ec6df64f2d93edbce7ea076851f544d.jpg",
+        "name": "Joe Root",
+        "country": "England",
+        "type": "Batsman",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm off-spin",
+        "price": 4050000
+    },
+    {
+        "id": 3,
+        "banner": "https://i.ibb.co/HfGc8yjS/bf9020416e7edf7c0f02de96fe1908c1.jpg",
+        "img": "https://i.ibb.co/ksBKsXd3/7dc2f93b934267670532d27960074f29.jpg",
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "type": "Bowler",
+        "batting_type": "Left-handed",
+        "batting_hand": "Left-arm fast-bowler",
+        "price": 7090500
+    },
+    {
+        "id": 4,
+        "banner": "https://i.ibb.co/S4f1fk1n/aeec292f8dd4a68f0b8d69908925a033.jpg",
+        "img": "https://i.ibb.co/Z1zKsP5v/f8210115d08e7bde97352ba938a83b8a.jpg",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "type": "All-Rounder",
+        "batting_type": "Left-handed",
+        "batting_hand": "Genuine All-Rounder",
+        "price": 3350000
+    },
+    {
+        "id": 5,
+        "banner": "https://i.ibb.co/Lhq77BgC/4f8235d7be3a46b95b036fbd30f7170c.jpg",
+        "img": "https://i.ibb.co/5WmbvCjP/8df6f4580c63278446b4472ae2c347e6.jpg",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "type": "Batsman",
+        "batting_type": "Right-handed",
+        "batting_hand": "Top-order batsman",
+        "price": 1750000
+    },
+    {
+        "id": 6,
+        "banner": "https://i.ibb.co/x8MsMN6z/ccf56897553a006ba10a9ee0e1bb30f5.jpg",
+        "img": "https://i.ibb.co/rKwfFtrP/8f4e60081c3c2a20da2dbedcfcbe1bf4.jpg",
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "type": "Bowler",
+        "batting_type": "Left-handed",
+        "batting_hand": "Left-arm medium",
+        "price": 6935000
+    },
+    {
+        "id": 7,
+        "banner": "https://i.ibb.co/27v0gXJx/c2747bb7c5c7be1e9d6ab954132510b4.jpg",
+        "img": "https://i.ibb.co/j99BGNZq/6ec0ccbf365e0d4f4c5351c2ce6f4f8f.jpg",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "type": "Batsman",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm leg-spin",
+        "price": 2450000
+    },
+    {
+        "id": 8,
+        "banner": "https://i.ibb.co/FLKprKY2/e65f87a96e5eda2b6d9eea389027dc91.jpg",
+        "img": "https://i.ibb.co/HDrR0kj9/a164fb66a36bf4fc7765e37f31edd876.jpg",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "type": "Bowler",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm fast",
+        "price": 4550000
+    },
+    {
+        "id": 9,
+        "banner": "https://i.ibb.co/FbCJR1GH/06a84715f359d002acabf64968d85df3.jpg",
+        "img": "https://i.ibb.co/WpvC9zpy/72790568ff65b0cb45b689855bced7dd.jpg",
+        "name": "Ben Stokes",
+        "country": "England",
+        "type": "All-Rounder",
+        "batting_type": "Right-handed",
+        "batting_hand": "Genuine All-Rounder",
+        "price": 7254000
+    },
+    {
+        "id": 10,
+        "banner": "https://i.ibb.co/4whc7PTV/37e4d953a28c7a2c3ea7d3928a1a3b49.jpg",
+        "img": "https://i.ibb.co/tPvKKmwW/e3c24d40c3b3f3ac2f57022268f82095.jpg",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "type": "Batsman",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm off-spin",
+        "price": 3320000
+    },
+    {
+        "id": 11,
+        "banner": "https://i.ibb.co/RTNJdsZq/22cd07c5193cfedc5283bdd3c23c9d62.jpg",
+        "img": "https://i.ibb.co/xTyh23Q/4fdb0d6005e4f27a84036af624d7caf9.jpg",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "type": "Bowler",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm leg-spin",
+        "price": 4100000
+    },
+    {
+        "id": 12,
+        "banner": "https://i.ibb.co/W4858L2r/127c2ced38211608857b89e73c4ae014.jpg",
+        "img": "https://i.ibb.co/8DCV4X33/8c15f7f6114dae1d5ce583f83d1a19f8.jpg",
+        "name": "Mashrafe Bin Mortaza",
+        "country": "Bangladesh",
+        "type": "Bowler",
+        "batting_type": "Right-handed",
+        "batting_hand": "Right-arm bowler",
+        "price": 2955000
+    }
+]

@@ -12,7 +12,7 @@ const Hero = ({ handleAddCredits }) => {
                 <h3 className='text-gray-400 text-xs md:text-lg lg:text-2xl font-medium text-center md:mt-2 lg:mt-4'>Beyond Boundaries Beyond Limits</h3>
                 <div className='w-full max-w-xs sm:max-w-sm md:max-w-md mx-auto text-center mt-2 md:mt-4 lg:mt-6'>
                     <div className='inline-block color-b  rounded-2xl p-1'>
-                        <button onClick={handleAddCredits} className='btn color rounded-xl py-2 px-3 text-xs md:py-3 md:px-6 md:text-base lg:py-3.5 lg:px-8 lg:text-lg cursor-pointer'>
+                        <button onClick={handleAddCredits} className='btn color rounded-xl py-2 px-3 text-xs font-bold md:py-3 md:px-6 md:text-base lg:py-3.5 lg:px-8 lg:text-lg cursor-pointer'>
                             Claim Free Credit
                         </button>
                     </div>
