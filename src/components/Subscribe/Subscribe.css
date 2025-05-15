@@ -1,0 +1,28 @@
+.bg-custom-css {
+    background-image: url('../../assets/bg-shadow.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-grad {
+    background-image: linear-gradient(to right, #C02425 0%, #F0CB35 51%, #C02425 100%)
+}
+
+.btn-grad {
+    margin: 10px;
+    padding: 16px 30px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    cursor: pointer;
+}
+
+.btn-grad:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
