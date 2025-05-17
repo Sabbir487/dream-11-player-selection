@@ -3,6 +3,7 @@ import './App.css'
 import Header from './components/Header/Header'
 import Main from './components/Main/Main'
 import { toast } from 'react-toastify';
+import Footer from './components/Footer/Footer';
 
 function App() {
   // Hero Section Working For Add Credit in Wallet
@@ -94,6 +95,7 @@ function App() {
     <>
       <Header addCredits={addCredits}></Header>
       <Main handleRemove={handleRemove} carts={carts} handleCart={handleCart} cards={cards} isActive={isActive} handleToogleBtn={handleToogleBtn} handleAddCredits={handleAddCredits}></Main>
+      <Footer></Footer>
     </>
   )
 }

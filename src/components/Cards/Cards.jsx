@@ -24,7 +24,7 @@ const Cards = ({ card, handleCart }) => {
             </div>
             <div className="font-semibold mt-5 flex justify-between items-center">
                 <p>Price: ${price}</p>
-                <button onClick={() => handleCart(card)} className="cursor-pointer btn btn-lg py-2 px-3 border border-gray-200 bg-gray-100 rounded-md">Choose Player</button>
+                <button onClick={() => handleCart(card)} className="cursor-pointer btn btn-lg py-2 px-3 border border-gray-200 bg-gray-100 rounded-md hover:text-white hover:bg-gradient-to-r from-red-500 to-orange-500">Choose Player</button>
             </div>
         </div>
     );

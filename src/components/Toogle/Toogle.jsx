@@ -4,7 +4,7 @@ import "./Toogle.css"
 
 const Toogle = ({ handleToogleBtn, isActive, cards, handleCart, carts, handleRemove }) => {
     return (
-        <div className="mt-16 relative mb-16">
+        <div className="mt-8 md:mt-16 relative mb-16">
             <div>
                 {
                     isActive ? <Available handleCart={handleCart} cards={cards}></Available> : <Selected handleRemove={handleRemove} handleToogleBtn={handleToogleBtn} carts={carts}></Selected>

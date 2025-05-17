@@ -4,7 +4,7 @@ import { TbCoinFilled } from "react-icons/tb"
 const Navber = ({ addCredits }) => {
     return (
         <div className="flex justify-between items-center">
-            <img className="w-12 h-12 lg:w-20 lg:h-20 md:w-16 md:h-16" src={Logo} alt="" />
+            <img className="w-12 h-12 lg:w-20 cursor-pointer lg:h-20 md:w-16 md:h-16" src={Logo} alt="" />
             <div className='flex gap-12 items-center'>
                 <div className='space-x-12 hidden lg:block'>
                     <button className='btn cursor-pointer font-medium text-gray-500 text-lg'>Home</button>
